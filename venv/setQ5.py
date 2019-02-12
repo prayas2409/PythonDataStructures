@@ -5,8 +5,8 @@ u = UtilityDataStructures()
 try:
     s = {1,2,3,14,15}
     print(s)
-    if s.__contains__(14):
-        s.remove(14)
+    if 14 in s:
+        s.remove(16)
         print("successfully deleted")
     else:
         print("Not present in the set")

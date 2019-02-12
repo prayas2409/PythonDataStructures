@@ -32,3 +32,8 @@ class UtilityDataStructures:
         print('deleted successfully')
         return llist
 
+    def swipeFromRtoL(self, list, start, last):
+
+        for i in range(start, last):
+            list[i] = list[i+1]
+        return list
