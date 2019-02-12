@@ -23,3 +23,12 @@ class UtilityDataStructures:
             except:
                 print("not a proper input please try again")
 
+    def deleteFromBack(self,dlist,ds):
+
+        llist = [dlist]
+        llist.reverse()
+        llist.__delitem__(ds)
+        llist.reverse()
+        print('deleted successfully')
+        return llist
+

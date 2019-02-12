@@ -12,6 +12,7 @@ try:
     dict = dict1.copy()
     dict.update(dict2)
     dict.update(dict3)
+
     print("printing as items")
     for items in dict.items():
         print(items)
@@ -19,6 +20,7 @@ try:
     print("printing using keys")
     for k in dict:
         print("Key: ",k," values:",dict[k])
+
     print("printing key value pairs")
     for (k,v) in dict.items():
         print("Key: ", k, " values:", v)

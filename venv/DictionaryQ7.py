@@ -9,31 +9,12 @@ try:
     print(keys)
     values = [v for (k,v) in dict.items()]
     print(values)
-    array = [values.__len__()][1]
 
-    for i in range(values.__len__()):
-        count = 0
-        k = 0
-        j = i+1
-        array[i][1] = 0
-        array[i][0] = values[i]
-        ranges = range(values.__len__())
-        for j in range(i+1, ranges):
-            if values[j] == values[i]:
-                array[i][j] = values[j]
-
-        for j in range(ranges):
-            while array[j][1]>0:
-                values.__delitem__(array[j][0])
-                array[j][1] -= 1
-                ranges -= 1
-
-    try:
-
-        print(values)
-    except:
-        print('Key not found')
-
+    print("Printing the list created by sets")
+    llist = set(dict.values())
+    for i in llist:
+        print (i, " ")
+    print("iterating")
 
 except Exception as e:
     print("Process stopped because %s" % e)

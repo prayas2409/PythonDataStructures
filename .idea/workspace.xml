@@ -6,20 +6,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0376c706-d6b5-4522-b461-384ca7dddfd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayQ2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ArrayQ3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ArrayQ4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/DictionaryQ1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/DictionaryQ2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/DictionaryQ3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/DictionaryQ4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/DictionaryQ5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/DictionaryQ6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/DictionaryQ7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/DictionaryQ10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/DictionaryQ11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/DictionaryQ12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/DictionaryQ8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/DictionaryQ9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Utility/UtilityDataStructures.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utility/UtilityDataStructures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayQ1.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrayQ1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ7.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ7.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,26 +27,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Utility/UtilityDataStructures.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+            <state relative-caret-position="210">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/DictionaryQ7.py">
+        <entry file="file://$PROJECT_DIR$/venv/DictionaryQ12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/DictionaryQ1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="180">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -76,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Utility/UtilityDataStructures.py" />
         <option value="$PROJECT_DIR$/arrayQ1.py" />
         <option value="$PROJECT_DIR$/venv/ArrayQ3.py" />
         <option value="$PROJECT_DIR$/venv/ArrayQ4.py" />
@@ -84,10 +69,16 @@
         <option value="$PROJECT_DIR$/venv/DictionaryQ2.py" />
         <option value="$PROJECT_DIR$/venv/DictionaryQ3.py" />
         <option value="$PROJECT_DIR$/venv/DictionaryQ1.py" />
-        <option value="$PROJECT_DIR$/venv/DictionaryQ4.py" />
         <option value="$PROJECT_DIR$/venv/DictionaryQ5.py" />
         <option value="$PROJECT_DIR$/venv/DictionaryQ6.py" />
+        <option value="$PROJECT_DIR$/Utility/UtilityDataStructures.py" />
+        <option value="$PROJECT_DIR$/venv/DictionaryQ4.py" />
         <option value="$PROJECT_DIR$/venv/DictionaryQ7.py" />
+        <option value="$PROJECT_DIR$/venv/DictionaryQ8.py" />
+        <option value="$PROJECT_DIR$/venv/DictionaryQ10.py" />
+        <option value="$PROJECT_DIR$/venv/DictionaryQ9.py" />
+        <option value="$PROJECT_DIR$/venv/DictionaryQ11.py" />
+        <option value="$PROJECT_DIR$/venv/DictionaryQ12.py" />
       </list>
     </option>
   </component>
@@ -142,8 +133,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DictionaryQ7">
-    <configuration name="DictionaryQ3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DictionaryQ12">
+    <configuration name="DictionaryQ10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DictionaryQ3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DictionaryQ10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DictionaryQ4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DictionaryQ11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,7 +167,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DictionaryQ4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DictionaryQ11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DictionaryQ5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DictionaryQ12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,7 +188,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DictionaryQ5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DictionaryQ12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DictionaryQ6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DictionaryQ8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,7 +209,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DictionaryQ6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DictionaryQ8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DictionaryQ7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DictionaryQ9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,7 +230,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DictionaryQ7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DictionaryQ9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DictionaryQ7" />
-        <item itemvalue="Python.DictionaryQ6" />
-        <item itemvalue="Python.DictionaryQ5" />
-        <item itemvalue="Python.DictionaryQ4" />
-        <item itemvalue="Python.DictionaryQ3" />
+        <item itemvalue="Python.DictionaryQ12" />
+        <item itemvalue="Python.DictionaryQ11" />
+        <item itemvalue="Python.DictionaryQ10" />
+        <item itemvalue="Python.DictionaryQ9" />
+        <item itemvalue="Python.DictionaryQ8" />
       </list>
     </recent_temporary>
   </component>
@@ -273,13 +264,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1299" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2456964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32952693" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32952693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -354,6 +346,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/DictionaryQ5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -361,38 +360,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="27" lean-forward="true" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility/UtilityDataStructures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/DictionaryQ1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="-221">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/DictionaryQ7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility/UtilityDataStructures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
         </state>
       </provider>
     </entry>
