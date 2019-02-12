@@ -15,7 +15,7 @@ try:
                 if key.__contains__(k):
                     flag = False
                     break
-            if flag != True :
+            if flag != True:
                 continue
             else:
                 key.append(k)

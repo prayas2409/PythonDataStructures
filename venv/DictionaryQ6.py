@@ -17,7 +17,7 @@ try:
         print(items)
 
     print("Enter the key to be deleted")
-    num=u.getInteger()
+    num = u.getInteger()
 
     try:
         dict.__delitem__(num)

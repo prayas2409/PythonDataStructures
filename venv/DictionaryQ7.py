@@ -13,7 +13,7 @@ try:
     print("Printing the list created by sets")
     llist = set(dict.values())
     for i in llist:
-        print (i, " ")
+        print(i, " ")
     print("iterating")
 
 except Exception as e:
