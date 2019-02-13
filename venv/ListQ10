@@ -1,21 +1,26 @@
 from Utility.UtilityDataStructures import UtilityDataStructures
+util = UtilityDataStructures()
+flag: bool = True
+while flag:
 
-u = UtilityDataStructures()
+    try:
+        l1 = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+        print(l1)
+        count = 0
+        l1.__delitem__(0-count)
+        count +=1
+        print(l1)
 
-try:
-    l1 = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
-    print(l1)
-    count = 0
-    l1.__delitem__(0-count)
-    count +=1
-    print(l1)
+        l1.__delitem__(4-count)
+        count += 1
+        print(l1)
+        l1.__delitem__(5-count)
+        count += 1
+        print(l1)
 
-    l1.__delitem__(4-count)
-    count += 1
-    print(l1)
-    l1.__delitem__(5-count)
-    count += 1
-    print(l1)
+    except Exception as exep:
+        print("Process stopped because %s" % exep)
 
-except Exception as e:
-    print("Process stopped because %s" % e)
+    print("To exit press 0 else press any other number")
+    if util.get_integer() == 0:
+        flag = False

@@ -1,29 +1,33 @@
+
 from Utility.UtilityDataStructures import UtilityDataStructures
+util = UtilityDataStructures()
+flag: bool = True
+while flag:
+    try:
+        dictnew = {'', ''}
+        dict1 = {'0': 11, 1: 13}
+        dict2 = {'2': 12, 3: 16}
+        dict3 = {'4': 14, 5: 17}
+        dict.clear()
 
-u = UtilityDataStructures()
+        dictnew = dict1.copy()
+        dictnew.update(dict2)
+        dictnew.update(dict3)
 
-try:
-    dict = {'',''}
-    dict1 = {'0':11,1:13}
-    dict2 = {'2':12,3:16,}
-    dict3 = {'4':14,5:17}
-    dict.clear()
+        print("printing as items")
+        for items in dictnew.items():
+            print(items)
 
-    dict = dict1.copy()
-    dict.update(dict2)
-    dict.update(dict3)
+        print("printing using keys")
+        for k in dictnew:
+            print("Key: ", k, " values:", dictnew[k])
 
-    print("printing as items")
-    for items in dict.items():
-        print(items)
+        print("printing key value pairs")
+        for (k, v) in dictnew.items():
+            print("Key: ", k, " values:", v)
 
-    print("printing using keys")
-    for k in dict:
-        print("Key: ",k," values:",dict[k])
-
-    print("printing key value pairs")
-    for (k,v) in dict.items():
-        print("Key: ", k, " values:", v)
-
-except Exception as e:
-    print("Process stopped because %s" % e)
+    except Exception as e:
+        print("Process stopped because %s" % e)
+    print("To exit press 0 else press any other number")
+    if util.get_integer() == 0:
+        flag = False

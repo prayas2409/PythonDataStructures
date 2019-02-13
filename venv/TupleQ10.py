@@ -3,14 +3,14 @@ util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
-        set1 = {1, 2, 3, 14, 15}
-        print(set1)
-        set1.clear()
-        print(set1)
+        util = UtilityDataStructures()
+        tuple1 = tuple(['apple', 'dhoni', 'veejay', 'deepak', 'suhas'])
+        print(tuple1)
+        tuple2 = tuple(reversed(tuple1))
+        print(tuple2)
 
     except Exception as exep:
         print("Process stopped because %s" % exep)
     print("To exit press 0 else press any other number")
     if util.get_integer() == 0:
         flag = False
-

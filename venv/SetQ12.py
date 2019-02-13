@@ -1,8 +1,16 @@
-try:
-    s = {1, 2, 3, 4, 5, 5, 6, 7, -1, -3}
-    print(s)
-    print(min(s))
-    print(max(s))
+from Utility.UtilityDataStructures import UtilityDataStructures
+util = UtilityDataStructures()
+flag: bool = True
+while flag:
+    try:
+        set1 = {1, 2, 3, 4, 5, 5, 6, 7, -1, -3}
+        print(set1)
+        print(min(set1))
+        print(max(set1))
 
-except Exception as e:
-    print("process stopped because ", e)
+    except Exception as exep:
+        print("Process stopped because %s" % exep)
+    print("To exit press 0 else press any other number")
+    if util.get_integer() == 0:
+        flag = False
+

@@ -3,10 +3,8 @@ util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
-        set1 = {1, 2, 3, 14, 15}
-        print(set1)
-        set1.clear()
-        print(set1)
+        tuple1 = ('apple', 'banana')
+        print(tuple1)
 
     except Exception as exep:
         print("Process stopped because %s" % exep)

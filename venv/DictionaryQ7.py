@@ -1,20 +1,23 @@
+
 from Utility.UtilityDataStructures import UtilityDataStructures
+util = UtilityDataStructures()
+flag: bool = True
+while flag:
+    try:
+        dict1 = {"IV":"S001", "VII": "S002", "VI": "S001", "IIV": "S005", "IIIV":"S005", "V":"S009","VIII":"S007"}
+        print(dict1)
+        keys = [key for key in dict1]
+        print(keys)
+        values = [v for (k,v) in dict1.items()]
+        print(values)
 
-u = UtilityDataStructures()
+        print("Printing the list created by sets")
+        llist = set(dict1.values())
+        for i in llist:
+            print(i, " ")
 
-try:
-    dict = {"IV":"S001", "VII": "S002", "VI": "S001", "IIV": "S005", "IIIV":"S005", "V":"S009","VIII":"S007"}
-    print(dict)
-    keys = [key for key in dict]
-    print(keys)
-    values = [v for (k,v) in dict.items()]
-    print(values)
-
-    print("Printing the list created by sets")
-    llist = set(dict.values())
-    for i in llist:
-        print(i, " ")
-    print("iterating")
-
-except Exception as e:
-    print("Process stopped because %s" % e)
+    except Exception as e:
+        print("Process stopped because %s" % e)
+    print("To exit press 0 else press any other number")
+    if util.get_integer() == 0:
+        flag = False

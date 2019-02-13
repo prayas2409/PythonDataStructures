@@ -1,30 +1,33 @@
+
 from Utility.UtilityDataStructures import UtilityDataStructures
-
-u = UtilityDataStructures()
-
-try:
-    dict = {'',''}
-    dict1 = {0:11,1:13}
-    dict2 = {2:12,3:16,}
-    dict3 = {4:14,5:17}
-    dict.clear()
-
-    dict = dict1.copy()
-    dict.update(dict2)
-    dict.update(dict3)
-    print("printing as items")
-    for items in dict.items():
-        print(items)
-
-    print("Enter the key to be deleted")
-    num = u.getInteger()
-
+util = UtilityDataStructures()
+flag: bool = True
+while flag:
     try:
-        dict.__delitem__(num)
-        print(dict)
-    except:
-        print('Key not found')
+        dict = {'',''}
+        dict1 = {0:11,1:13}
+        dict2 = {2:12,3:16,}
+        dict3 = {4:14,5:17}
+        dict.clear()
 
+        dict = dict1.copy()
+        dict.update(dict2)
+        dict.update(dict3)
+        print("printing as items")
+        for items in dict.items():
+            print(items)
 
-except Exception as e:
-    print("Process stopped because %s" % e)
+        print("Enter the key to be deleted")
+        num = util.get_integer()
+
+        try:
+            dict.__delitem__(num)
+            print(dict)
+        except:
+            print('Key not found')
+
+    except Exception as e:
+        print("Process stopped because %s" % e)
+    print("To exit press 0 else press any other number")
+    if util.get_integer() == 0:
+        flag = False

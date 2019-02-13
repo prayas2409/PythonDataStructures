@@ -1,14 +1,18 @@
 from Utility.UtilityDataStructures import UtilityDataStructures
+util = UtilityDataStructures()
+flag: bool = True
+while flag:
+    try:
+        set1 = {1, 2, 3, 14, 15}
+        print(set1)
+        set2 = {4, 5, 6, 1, 2}
+        print(set2)
+        set3 = set1 | set2
+        print(set3)
 
-u = UtilityDataStructures()
+    except Exception as exep:
+        print("Process stopped because %s" % exep)
+    print("To exit press 0 else press any other number")
+    if util.get_integer() == 0:
+        flag = False
 
-try:
-    s1 = {1,2,3,14,15}
-    print(s1)
-    s2 = {4,5,6,1,2}
-    print(s2)
-    s3 = s1 | s2
-    print (s3)
-
-except Exception as e:
-    print("Process stopped because %s" % e)

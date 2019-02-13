@@ -1,14 +1,19 @@
+
 from Utility.UtilityDataStructures import UtilityDataStructures
+util = UtilityDataStructures()
+flag: bool = True
+while flag:
 
-u = UtilityDataStructures()
+    try:
+        dict1 = {'', ''}
+        dict1.clear()
+        print("Enter the number")
+        inputnum = util.get_positive_integer()+1
+        dict1 = {(i, i*i) for i in range(1, inputnum)}
+        print(dict1)
 
-try:
-    dict = {'',''}
-    dict.clear()
-    print("Enter the number")
-    num = u.getPositiveInteger()+1
-    dict = { (i,i*i) for i in range(1,num) }
-    print (dict)
-
-except Exception as e:
-    print("Process stopped because %s" % e)
+    except Exception as e:
+        print("Process stopped because %s" % e)
+    print("To exit press 0 else press any other number")
+    if util.get_integer() == 0:
+        flag = False

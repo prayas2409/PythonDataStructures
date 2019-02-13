@@ -1,28 +1,32 @@
+import itertools
 from Utility.UtilityDataStructures import UtilityDataStructures
-from itertools import permutations
+util = UtilityDataStructures()
+flag: bool = True
+while flag:
 
-u = UtilityDataStructures()
-iter
-try:
-    l1 = ['Red', 'yop', 'der', 'poy', 'op', 'edr']
-    for i in range (l1.__len__()):
-        l1[i] = l1[i].lower()
-    print(l1)
-    lperms = []
-    listperms = []
-    num = l1.__len__()
-    for it in range(l1.__len__()):
-        lperms = ['']
-        lperms = permutations(l1[it])
-        listperms.clear()
-        for each in lperms:
-            listperms.append(''.join(each))
-        for others in l1[it+1:]:
-            if listperms.__contains__(others):
-                l1.remove(others)
-    for i in range(l1.__len__()):
-        print(l1[i])
-except IndexError:
-    print(l1)
-except Exception as e:
-    print("Process stopped because %s" % e)
+    try:
+        list1 = ['Red', 'yop', 'der', 'poy', 'op', 'edr']
+        for counter in range(list1.__len__()):
+            list1[counter] = list1[counter].lower()
+        print(list1)
+        charperms = []
+        listperms = []
+        num = list1.__len__()
+        for item in range(list1.__len__()):
+            charperms = ['']
+            charperms = itertools.permutations(list1[item])
+            listperms.clear()
+            for each in charperms:
+                listperms.append(''.join(each))
+            for others in list1[item + 1:]:
+                if listperms.__contains__(others):
+                    list1.remove(others)
+        for counter in range(list1.__len__()):
+            print(list1[counter])
+    except IndexError:
+        print(list1)
+    except Exception as exep:
+        print("Process stopped because %s" % exep)
+    print("To exit press 0 else press any other number")
+    if util.get_integer() == 0:
+        flag = False

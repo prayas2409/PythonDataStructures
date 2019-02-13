@@ -6,18 +6,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0376c706-d6b5-4522-b461-384ca7dddfd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/ListQ10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ListQ11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ListQ12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ListQ13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ListQ14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ListQ15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ListQ7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ListQ8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/ListQ9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/SetQ12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/ListQ16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/ListQ17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/TupleQ1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/TupleQ10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/TupleQ2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/TupleQ3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/TupleQ5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/TupleQ6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/TupleQ7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/TupleQ9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/tupleQ4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayQ2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayQ2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utility/UtilityDataStructures.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utility/UtilityDataStructures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayQ1.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrayQ1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ArrayQ3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ArrayQ3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ArrayQ4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ArrayQ4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Dictionary13.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Dictionary13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ10.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ11.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ12.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ6.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ7.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ8.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ9.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ10" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ11.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ12.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ13.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ14.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ15.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ6.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ7.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ8.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ListQ9.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/SetQ10.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SetQ12.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SetQ2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SetQ3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SetQ4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SetQ7.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SetQ8.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SetQ9.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Setsetdifference.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Setsetdifference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/setQ5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/setQ5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/setsQ1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/setsQ1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,29 +72,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Utility/UtilityDataStructures.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/ListQ13.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/ListQ15.py">
+        <entry file="file://$PROJECT_DIR$/venv/ArrayQ4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+            <state relative-caret-position="285">
+              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -74,57 +101,61 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/arrayQ1.py" />
-        <option value="$PROJECT_DIR$/venv/ArrayQ3.py" />
-        <option value="$PROJECT_DIR$/venv/ArrayQ4.py" />
-        <option value="$PROJECT_DIR$/ArrayQ2.py" />
-        <option value="$PROJECT_DIR$/venv/DictionaryQ2.py" />
-        <option value="$PROJECT_DIR$/venv/DictionaryQ3.py" />
-        <option value="$PROJECT_DIR$/venv/DictionaryQ1.py" />
-        <option value="$PROJECT_DIR$/venv/DictionaryQ5.py" />
-        <option value="$PROJECT_DIR$/venv/DictionaryQ4.py" />
+        <option value="$PROJECT_DIR$/venv/DictionaryQ6.py" />
+        <option value="$PROJECT_DIR$/venv/DictionaryQ7.py" />
         <option value="$PROJECT_DIR$/venv/DictionaryQ8.py" />
         <option value="$PROJECT_DIR$/venv/DictionaryQ9.py" />
-        <option value="$PROJECT_DIR$/venv/DictionaryQ11.py" />
-        <option value="$PROJECT_DIR$/venv/DictionaryQ12.py" />
-        <option value="$PROJECT_DIR$/venv/DictionaryQ7.py" />
         <option value="$PROJECT_DIR$/venv/DictionaryQ10.py" />
-        <option value="$PROJECT_DIR$/venv/DictionaryQ6.py" />
-        <option value="$PROJECT_DIR$/venv/Dictionary13.py" />
-        <option value="$PROJECT_DIR$/venv/setsQ1.py" />
-        <option value="$PROJECT_DIR$/venv/SetQ2.py" />
-        <option value="$PROJECT_DIR$/venv/SetQ3.py" />
-        <option value="$PROJECT_DIR$/venv/SetQ4.py" />
-        <option value="$PROJECT_DIR$/venv/setQ6.py" />
-        <option value="$PROJECT_DIR$/venv/SetQ7.py" />
-        <option value="$PROJECT_DIR$/venv/SetQ8.py" />
-        <option value="$PROJECT_DIR$/venv/SetQ9" />
-        <option value="$PROJECT_DIR$/venv/SetQ9.py" />
-        <option value="$PROJECT_DIR$/venv/setQ5.py" />
-        <option value="$PROJECT_DIR$/venv/Setsetdifference.py" />
+        <option value="$PROJECT_DIR$/venv/DictionaryQ11.py" />
+        <option value="$PROJECT_DIR$/venv/ListQ5.py" />
+        <option value="$PROJECT_DIR$/venv/DictionaryQ5.py" />
+        <option value="$PROJECT_DIR$/venv/ListQ6.py" />
+        <option value="$PROJECT_DIR$/venv/DictionaryQ12.py" />
+        <option value="$PROJECT_DIR$/venv/ListQ1.py" />
         <option value="$PROJECT_DIR$/venv/ListQ2.py" />
         <option value="$PROJECT_DIR$/venv/ListQ3.py" />
-        <option value="$PROJECT_DIR$/venv/ListQ1.py" />
         <option value="$PROJECT_DIR$/venv/ListQ4.py" />
-        <option value="$PROJECT_DIR$/venv/ListQ5.py" />
-        <option value="$PROJECT_DIR$/Utility/UtilityDataStructures.py" />
-        <option value="$PROJECT_DIR$/venv/ListQ6.py" />
         <option value="$PROJECT_DIR$/venv/ListQ7.py" />
-        <option value="$PROJECT_DIR$/venv/ListQ8.py" />
-        <option value="$PROJECT_DIR$/venv/List!9.py" />
         <option value="$PROJECT_DIR$/venv/ListQ9.py" />
         <option value="$PROJECT_DIR$/venv/ListQ10" />
-        <option value="$PROJECT_DIR$/venv/ListQ11.py" />
         <option value="$PROJECT_DIR$/venv/ListQ12.py" />
+        <option value="$PROJECT_DIR$/venv/ListQ8.py" />
+        <option value="$PROJECT_DIR$/venv/ListQ11.py" />
         <option value="$PROJECT_DIR$/venv/ListQ13.py" />
-        <option value="$PROJECT_DIR$/venv/SetQ10.py" />
         <option value="$PROJECT_DIR$/venv/ListQ14.py" />
-        <option value="$PROJECT_DIR$/venv/SetQ12.py" />
+        <option value="$PROJECT_DIR$/venv/ListQ16.py" />
+        <option value="$PROJECT_DIR$/venv/SetQ4.py" />
+        <option value="$PROJECT_DIR$/venv/SetQ3.py" />
+        <option value="$PROJECT_DIR$/venv/SetQ2.py" />
+        <option value="$PROJECT_DIR$/venv/ListQ17.py" />
         <option value="$PROJECT_DIR$/venv/ListQ15.py" />
+        <option value="$PROJECT_DIR$/venv/setQ5.py" />
+        <option value="$PROJECT_DIR$/venv/SetQ7.py" />
+        <option value="$PROJECT_DIR$/venv/SetQ8.py" />
+        <option value="$PROJECT_DIR$/venv/SetQ9.py" />
+        <option value="$PROJECT_DIR$/venv/SetQ10.py" />
+        <option value="$PROJECT_DIR$/venv/SetQ12.py" />
+        <option value="$PROJECT_DIR$/venv/Setsetdifference.py" />
+        <option value="$PROJECT_DIR$/venv/setsQ1.py" />
+        <option value="$PROJECT_DIR$/venv/TupleQ1.py" />
+        <option value="$PROJECT_DIR$/venv/TupleQ2.py" />
+        <option value="$PROJECT_DIR$/venv/TupleQ3.py" />
+        <option value="$PROJECT_DIR$/venv/tupleQ4.py" />
+        <option value="$PROJECT_DIR$/venv/TupleQ6.py" />
+        <option value="$PROJECT_DIR$/venv/TupleQ5.py" />
+        <option value="$PROJECT_DIR$/venv/TupleQ7.py" />
+        <option value="$PROJECT_DIR$/venv/TupleQ8.py" />
+        <option value="$PROJECT_DIR$/venv/TupleQ9.py" />
+        <option value="$PROJECT_DIR$/venv/TupleQ10.py" />
+        <option value="$PROJECT_DIR$/arrayQ1.py" />
+        <option value="$PROJECT_DIR$/Utility/UtilityDataStructures.py" />
+        <option value="$PROJECT_DIR$/ArrayQ2.py" />
+        <option value="$PROJECT_DIR$/venv/ArrayQ3.py" />
+        <option value="$PROJECT_DIR$/venv/ArrayQ4.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="77" />
     <option name="y" value="47" />
     <option name="width" value="1279" />
@@ -175,8 +206,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ListQ15">
-    <configuration name="ListQ13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ArrayQ4">
+    <configuration name="ArrayQ2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,11 +215,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/ListQ13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayQ2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ListQ14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ArrayQ4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,7 +240,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/ListQ14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/ArrayQ4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ListQ15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TupleQ10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,7 +261,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/ListQ15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/TupleQ10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SetQ10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TupleQ9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,7 +282,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SetQ10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/TupleQ9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SetQ12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="arrayQ1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,11 +299,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SetQ12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayQ1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,11 +314,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ListQ15" />
-        <item itemvalue="Python.SetQ12" />
-        <item itemvalue="Python.ListQ14" />
-        <item itemvalue="Python.SetQ10" />
-        <item itemvalue="Python.ListQ13" />
+        <item itemvalue="Python.ArrayQ4" />
+        <item itemvalue="Python.ArrayQ2" />
+        <item itemvalue="Python.arrayQ1" />
+        <item itemvalue="Python.TupleQ10" />
+        <item itemvalue="Python.TupleQ9" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +344,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32952693" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2822186" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,361 +352,370 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32952693" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" weight="0.32952693" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/venv/ListQ11.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ArrayQ3.py">
+    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayQ2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arrayQ1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ArrayQ4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="24" lean-forward="true" selection-start-line="2" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/DictionaryQ8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="165">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ5.py">
+    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ6.py">
+    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        <state relative-caret-position="150">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ7.py">
+    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="150">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Dictionary13.py">
+    <entry file="file://$PROJECT_DIR$/venv/ListQ5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="199">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ListQ6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/DictionaryQ12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="25" />
+        <state relative-caret-position="195">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/SetQ9" />
-    <entry file="file://$PROJECT_DIR$/venv/SetQ9.py">
+    <entry file="file://$PROJECT_DIR$/venv/ListQ2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="240">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/setsQ1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/SetQ2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/SetQ3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/SetQ4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/setQ5.py">
+    <entry file="file://$PROJECT_DIR$/venv/ListQ3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/setQ6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/SetQ7.py">
+    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/SetQ8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Setsetdifference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ListQ2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="13" />
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/ListQ1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ListQ3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" />
+        <state relative-caret-position="135">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/ListQ4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ListQ7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ListQ6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ListQ5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="18" />
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/ListQ8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/List!9.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility/UtilityDataStructures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="120">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/ListQ9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" />
+        <state relative-caret-position="169">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/ListQ10">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="139">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/ListQ12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="21" />
+        <state relative-caret-position="180">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/ListQ11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="28" lean-forward="true" selection-end-line="28" />
-          <folding>
-            <element signature="e#0#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/SetQ10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/SetQ12.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ListQ14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/ListQ13.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="56" lean-forward="true" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ListQ14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/setQ6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ListQ16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ListQ17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/SetQ2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/SetQ3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/SetQ4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/setQ5.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/ListQ15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state relative-caret-position="180">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ListQ7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/SetQ7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/SetQ12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/SetQ8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/SetQ9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/SetQ10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Setsetdifference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/TupleQ1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/TupleQ2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/TupleQ3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/tupleQ4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/TupleQ5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/TupleQ6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/TupleQ8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility/UtilityDataStructures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="47" column="52" lean-forward="true" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayQ2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrayQ1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/TupleQ10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/TupleQ9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/TupleQ7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/setsQ1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ArrayQ3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ArrayQ4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>

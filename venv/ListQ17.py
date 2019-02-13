@@ -2,16 +2,16 @@ from Utility.UtilityDataStructures import UtilityDataStructures
 util = UtilityDataStructures()
 flag: bool = True
 while flag:
+
     try:
-        list1 = ['Red', 'yop', 'der', 'poy', 'op', 'edr']
-        print("l1 is ", list1)
-        list2 = ['pop', 'poy', 'Red']
-        print('l2 is ', list2)
-        list3 = []
-        for string in list1:
-            if list2.__contains__(string):
-                list3.append(string)
-        print("Common items in l1 and l2 are ", list3)
+        list1 = [[10, 20], [40], [30, 56, 25], [10, 20], [33], [40]]
+        list2 = []
+        print(list1)
+        for counter in range(list1.__len__()):
+            for counter2 in range(counter + 1, list1.__len__()):
+                if util.equalsList(list1[counter], list1[counter2]):
+                    list1.remove(list1[counter2])
+        print(list1)
     except IndexError:
         print(list1)
     except Exception as exep:

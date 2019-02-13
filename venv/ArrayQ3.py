@@ -1,23 +1,35 @@
 from Utility.UtilityDataStructures import UtilityDataStructures
 
-try:
-    print('Enter the number of elements to be added to the array')
-    u = UtilityDataStructures()
-    num = u.getPositiveInteger()
-    i = 0
-    array = []
-    print("Enter the elements for the array")
-    count = 0
-    while i in range(num):
-        n = u.getInteger()
-        array.append(n)
-        i += 1
+flag: bool = True
+while flag:
+    try:
+        print('Enter the number of elements to be added to the array')
+        # object of util class
+        util = UtilityDataStructures()
+        # input from user
+        num = util.get_positive_integer()
+        # empty array
+        array = []
+        print("Enter the elements for the array")
+        # counts number of times the number occured
+        count = 0
+        counter = 0
+        # storing input from user
+        while counter in range(0, num):
+            numinput = util.get_integer()
+            array.append(numinput)
+            counter += 1
 
-    print("Enter the number to be searched")
-    search = u.getInteger()
-    for i in range(num):
-        if array[i].__eq__(search):
-            count += 1
-    print("The number of occurrences  of ",search," are ",count)
-except Exception as e:
-    print("Process stopped because %s" % e)
+        print("Enter the number to be searched")
+        # getting number to be searched
+        search = util.get_integer()
+        counter = 0
+        for counter in range(0, num):
+            if array[counter].__eq__(search):
+                count += 1
+        print("The number of occurrences  of ", search, " are ", count)
+    except Exception as e:
+        print("Process stopped because %s" % e)
+    print("Enter 0 to exit another value to continue")
+    if util.get_integer() == 0:
+        flag = False

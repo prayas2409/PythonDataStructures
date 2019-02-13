@@ -1,24 +1,33 @@
+
 from Utility.UtilityDataStructures import UtilityDataStructures
+util = UtilityDataStructures()
+flag: bool = True
+while flag:
 
-u = UtilityDataStructures()
+    try:
+        list1 = [2, 5, 1, 2, 4, 4, 2, 3, 2, 1]
+        list2 = []
+        print(list1)
+        for element in list1:
+            if list2.__contains__(element):
+                continue
+            else:
+                list2.append(element)
+        print("Using  diff list ", list2)
+    except Exception as e:
+        print("Process stopped because %s" % e)
+    '''
+        for i in range(list1.__len__()-1 ):
+            for j in range(i+1, list1.__len__()-1):
+                if list1[i] == list1[j]:
+                    list1 = util.swipe_from_r_to_l(list1, j, list1.__len__())
+                    list1.remove(list1[j])
+        print("singly ",list1)
 
-try:
-    l1 = [2, 5, 1, 2, 4, 4, 2, 3, 2, 1]
-    l2 = []
-    print(l1)
-    for i in l1:
-        if l2.__contains__(i):
-            continue
-        else:
-            l2.append(i)
-    print("Using  diff list ",l2)
+    except IndexError:
+        print("singly ",list1)
     '''
-    for i in range (l1.__len__()-1 ):
-        for j in range (i+1 , l1.__len__()-1):
-            if l1[i] == l1[j]:
-                l1 = u.swipeFromRtoL(l1, j, l1.__len__())
-                l1.remove(l1[j])
-    print("singly ",l1)
-    '''
-except Exception as e:
-    print("Process stopped because %s" % e)
+
+    print("To exit press 0 else press any other number")
+    if util.get_integer() == 0:
+        flag = False

@@ -1,12 +1,16 @@
 from Utility.UtilityDataStructures import UtilityDataStructures
+util = UtilityDataStructures()
+flag: bool = True
+while flag:
+    try:
+        set1 = {1, 2, 3, 12, 13, 14}
+        print(set1)
+        set1.remove(12)
+        print(set1)
 
-u = UtilityDataStructures()
+    except Exception as exep:
+        print("Process stopped because %s" % exep)
+    print("To exit press 0 else press any other number")
+    if util.get_integer() == 0:
+        flag = False
 
-try:
-    s = {1,2,3,12,13,14}
-    print(s)
-    s.remove(12)
-    print(s)
-
-except Exception as e:
-    print("Process stopped because %s" % e)

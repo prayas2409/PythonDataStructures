@@ -1,17 +1,20 @@
 from Utility.UtilityDataStructures import UtilityDataStructures
+util = UtilityDataStructures()
+flag: bool = True
+while flag:
+    try:
+        list1 = ['Red', 'yop', 'der', 'poy', 'op', 'edr']
+        print("l1 is ", list1)
+        list2 = ['pop', 'poy', 'Red']
+        print('list2 is ', list2)
+        for string in list2:
+            list1.append(string)
+        print("list1 is ", list1)
 
-u = UtilityDataStructures()
-
-try:
-    l1 = ['Red', 'yop', 'der', 'poy', 'op', 'edr']
-    print("l1 is ", l1)
-    l2 = ['pop', 'poy', 'Red']
-    print('l2 is ', l2)
-    for string in l2:
-        l1.append(string)
-    print("l1 is ", l1)
-
-except IndexError:
-    print(l1)
-except Exception as e:
-    print("Process stopped because %s" % e)
+    except IndexError:
+        print(list1)
+    except Exception as exep:
+        print("Process stopped because %s" % exep)
+    print("To exit press 0 else press any other number")
+    if util.get_integer() == 0:
+        flag = False
