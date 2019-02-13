@@ -3,13 +3,10 @@ from Utility.UtilityDataStructures import UtilityDataStructures
 u = UtilityDataStructures()
 
 try:
-    s1 = {1,2,3,14,15}
-    print(s1)
-    s2 = {4,5,6,1,2}
-    s3 = frozenset(s1)
-    print(s3)
-    s3 = s3 - s1
-    print(s3)
-
+    l1 = [2, 5, 1, 2, 4, 4, 2, 3, 2, 1]
+    l2 = []
+    l2 = l1.copy()
+    print(l1)
+    print(l2)
 except Exception as e:
     print("Process stopped because %s" % e)
