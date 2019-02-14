@@ -56,3 +56,23 @@ class UtilityDataStructures:
                 if string1.lower() == string2.lower():
                    return True
         return False
+
+    def longest_string(self, list1):
+
+        llength = 0
+        longstring = ""
+        for item in list1:
+            if item.__len__() > llength:
+                llength = item.__len__()
+                longstring = item
+        print("longest element is ", longstring)
+        return llength
+
+    def sort(self, list1):
+        for counter1 in range(0, list1.__len__()):
+            for counter2 in range(counter1+1, list1.__len__()):
+                if list1[counter1] > list1[counter2]:
+                    temp = list1[counter2]
+                    list1[counter2] = list1[counter1]
+                    list1[counter1] = temp
+        return list1
