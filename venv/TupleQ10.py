@@ -6,6 +6,7 @@ while flag:
         util = UtilityDataStructures()
         tuple1 = tuple(['apple', 'dhoni', 'veejay', 'deepak', 'suhas'])
         print(tuple1)
+        # reversing the tuple and storing the output as a tuple in the variable
         tuple2 = tuple(reversed(tuple1))
         print(tuple2)
 

@@ -10,16 +10,17 @@ while flag:
         counter = 0
         array = []
         print("Enter the elements for the array")
-        while counter in range(num):
+        # storing the elements by taking input from the user
+        while counter in range(0, num):
             inputnum = util.get_integer()
             array.append(inputnum)
             counter += 1
-        for counter in range(num):
+        for counter in range(0, num):
             print(array[counter])
-
+        # revering the array
         print("After using inbuilt reverse function")
         array.reverse()
-        for counter in range(num):
+        for counter in range(0, num):
             print(array[counter])
 
     except Exception as exep:

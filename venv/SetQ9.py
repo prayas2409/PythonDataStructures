@@ -5,6 +5,7 @@ while flag:
     try:
         set1 = {1, 2, 3, 14, 15}
         print(set1)
+        # clearing the set
         set1.clear()
         print(set1)
 

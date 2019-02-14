@@ -6,9 +6,11 @@ while flag:
     try:
         l1 = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
         print(l1)
+        # count stores the number of the elements deleted
         count = 0
         l1.__delitem__(0-count)
-        count +=1
+        # as 1 element deleted increment the value of count
+        count += 1
         print(l1)
 
         l1.__delitem__(4-count)

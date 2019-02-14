@@ -5,6 +5,7 @@ while flag:
     try:
         set1 = {1, 2, 3, 12, 13, 14}
         print(set1)
+        # remove the element from the list
         set1.remove(12)
         print(set1)
 

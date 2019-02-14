@@ -6,6 +6,7 @@ while flag:
         util = UtilityDataStructures()
         tuple1 = tuple(['apple', 'dhoni', 'veejay', 'deepak', 'suhas'])
         print(tuple1)
+        # slicing the tuple and storing in a new tuple
         tuple2 = tuple1[2:]
         print(tuple2)
         tuple3 = tuple1[:3]

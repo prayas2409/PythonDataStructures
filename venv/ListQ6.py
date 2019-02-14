@@ -8,10 +8,12 @@ while flag:
         list1 = [2, 5, 1, 2, 4, 4, 2, 3, 2, 1]
         list2 = []
         print(list1)
+        # iterating the list
         for element in list1:
             if list2.__contains__(element):
                 continue
             else:
+                # storing the elements in the list which have not yet encountered
                 list2.append(element)
         print("Using  diff list ", list2)
     except Exception as e:

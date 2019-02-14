@@ -6,9 +6,11 @@ while flag:
         set1 = {1, 2, 3, 14, 15}
         print(set1)
         if 16 in set1:
+            # element is in the list then only it'l be removed
             set1.remove(16)
             print("successfully deleted")
         else:
+            # if the element is not present there it'll show as not present
             print("Not present in the set")
         print(set1)
 

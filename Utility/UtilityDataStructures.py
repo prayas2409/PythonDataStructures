@@ -48,3 +48,11 @@ class UtilityDataStructures:
                 if list1[counter] != list2[counter]:
                     return False
             return True
+
+    def if_common_element(self, list1, list2):
+
+        for string1 in list1:
+            for string2 in list2:
+                if string1.lower() == string2.lower():
+                   return True
+        return False

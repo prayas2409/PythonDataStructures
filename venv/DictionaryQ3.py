@@ -4,22 +4,25 @@ util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
-        dictnew = {'', ''}
+        # empty dictionary
+        dictnew = {'': ''}
         dict1 = {0: 11, 1: 13}
         dict2 = {2: 12, 3: 16}
         dict3 = {4: 14, 5: 17}
-        print("The dictionary before sorting is")
+        print("The dictionaries before storing are")
 
         print("The 3 dictionaries are")
         print(dict1)
         print(dict2)
         print(dict3)
-        print("Testing")
-
+        # clearing the dictionary for storing the new values
         dictnew.clear()
+        # copy dict1 to new dictionary
         dictnew = dict1.copy()
+        # updating the dictionary if keys not present then gets added
         dictnew.update(dict2)
         dictnew.update(dict3)
+
         print("the resultant dict is")
         print(dictnew)
 

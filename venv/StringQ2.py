@@ -1,17 +1,15 @@
-
 from Utility.UtilityDataStructures import UtilityDataStructures
 util = UtilityDataStructures()
 flag: bool = True
 while flag:
 
     try:
-        dict1 = {'': ''}
-        dict1.clear()
-        print("Enter the number")
-        inputnum = util.get_positive_integer()+1
-        # storing the values in the dictionary
-        dict1 = {(i, i*i) for i in range(1, inputnum)}
-        print(dict1)
+        string1 = "google.com"
+        # storing the characters in set as duplicates will be removed
+        set1 = set(string1)
+        #  checking for all the characters in the set
+        for char in set1:
+            print("count of ", char, " is", string1.count(char))
 
     except Exception as e:
         print("Process stopped because %s" % e)

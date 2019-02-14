@@ -4,12 +4,13 @@ util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
-        dictnew = {'', ''}
+        dictnew = {'': ''}
         dict1 = {'0': 11, 1: 13}
         dict2 = {'2': 12, 3: 16}
         dict3 = {'4': 14, 5: 17}
-        dict.clear()
-
+        # clearing the dictionary for storing the new values
+        dictnew.clear()
+        # updating the dictionary if keys not present then gets added
         dictnew = dict1.copy()
         dictnew.update(dict2)
         dictnew.update(dict3)

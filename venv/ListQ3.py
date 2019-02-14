@@ -6,6 +6,7 @@ while flag:
 
     try:
         list1 = [1, 2, 3, 4, -1, 5]
+        # printing the min value in the list using the min function
         print("Smallest element is ", min(list1))
 
     except Exception as e:

@@ -7,19 +7,26 @@ while flag:
         num = util.get_positive_integer()
         counter = 0
         array = []
+
         print("Enter the elements for the array")
         while counter in range(0, num):
-            n = util.get_integer()
-            array.append(n)
+            inputnum = util.get_integer()
+            array.append(inputnum)
             counter += 1
+
+        # printing the array
         for counter in range(0, num):
             print(array[counter], " ")
+
         print("Enter the number to search and delete")
         search = util.get_integer()
         try:
+            # removing the element in the array
             array.remove(search)
             num -= 1
             print("After deleting the element in the array")
+
+            # print the members of the array
             for counter2 in range(0, num):
                 print(array[counter2], " ")
         except:

@@ -1,18 +1,20 @@
-
 from Utility.UtilityDataStructures import UtilityDataStructures
 util = UtilityDataStructures()
 flag: bool = True
 while flag:
 
     try:
-        dict1 = {'': ''}
-        dict1.clear()
-        print("Enter the number")
-        inputnum = util.get_positive_integer()+1
-        # storing the values in the dictionary
-        dict1 = {(i, i*i) for i in range(1, inputnum)}
-        print(dict1)
-
+        string1 = input("Enter a string")
+        if string1.__len__() < 3:
+            print("no change")
+        else:
+            if string1.endswith("ing"):
+                string1 += 'ly'
+            else:
+                string1 += 'ing'
+            print(string1)
+    except IndexError:
+        print(string1)
     except Exception as e:
         print("Process stopped because %s" % e)
     print("To exit press 0 else press any other number")

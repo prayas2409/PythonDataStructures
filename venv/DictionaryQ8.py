@@ -5,9 +5,12 @@ flag: bool = True
 while flag:
 
     try:
-        dict1 = {'1': 1}
+        # creating a dummy dictionary
+        dict1 = {'': ''}
+        print(dict1)
         string = 'w3resource'
         dict1.clear()
+        # storing the values in the dictionary along with their count
         for i in string:
             dict1[i] = string.count(i)
         print(dict1)

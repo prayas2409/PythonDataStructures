@@ -4,14 +4,11 @@ util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
-        dict1 = {"IV":"S001", "VII": "S002", "VI": "S001", "IIV": "S005", "IIIV":"S005", "V":"S009","VIII":"S007"}
+        dict1 = {"IV": "S001", "VII": "S002", "VI": "S001", "IIV": "S005", "IIIV": "S005", "V": "S009", "VIII": "S007"}
         print(dict1)
-        keys = [key for key in dict1]
-        print(keys)
-        values = [v for (k,v) in dict1.items()]
-        print(values)
 
-        print("Printing the list created by sets")
+        print("Printing the set created from sets")
+        # storing as set as sets do not store duplicate elements
         llist = set(dict1.values())
         for i in llist:
             print(i, " ")

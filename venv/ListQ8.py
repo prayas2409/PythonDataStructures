@@ -7,8 +7,9 @@ while flag:
         list1 = ['Prayas', 'Deepak', 'Sunil', 'Veejay', 'Suhas', 'Narayan', 'Ajay']
         print("Enter the length ")
         length = util.get_positive_integer()
-
+        # iterating through the list
         for string in list1:
+            # printing only those whose length is more than length specified by user
             if string.__len__() > length:
                 print(string)
 

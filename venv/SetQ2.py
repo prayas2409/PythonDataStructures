@@ -3,8 +3,9 @@ util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
+        # creating a new  list
         set1 = {1, 2, 3}
-
+        # iterating through the elements in the set
         for item in set1:
             print(item)
 

@@ -4,25 +4,26 @@ util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
-        dict = {'',''}
-        dict1 = {0:11,1:13}
-        dict2 = {2:12,3:16,}
-        dict3 = {4:14,5:17}
-        dict.clear()
 
-        dict = dict1.copy()
-        dict.update(dict2)
-        dict.update(dict3)
+        dictnew = {'': ''}
+        dict1 = {0: 11, 1: 13}
+        dict2 = {2: 12, 3: 16}
+        dict3 = {4: 14, 5: 17}
+        dictnew.clear()
+        # storing the elements in the dictionary
+        dictnew = dict1.copy()
+        dictnew.update(dict2)
+        dictnew.update(dict3)
         print("printing as items")
-        for items in dict.items():
+        for items in dictnew.items():
             print(items)
 
         print("Enter the key to be deleted")
         num = util.get_integer()
-
+        # deleting the element from the dictionary
         try:
-            dict.__delitem__(num)
-            print(dict)
+            dictnew.__delitem__(num)
+            print(dictnew)
         except:
             print('Key not found')
 

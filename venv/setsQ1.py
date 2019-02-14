@@ -3,6 +3,7 @@ util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
+        # creating the new set
         set1 = {1, 2, 3}
         print(set1)
 

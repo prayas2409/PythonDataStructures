@@ -3,6 +3,7 @@ util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
+        # Storing different kind of values in the tuple
         tuple1 = ('apple', 'banana', 1, 23, 54.343, 'f', [10, 20], {20})
         print(tuple1)
 

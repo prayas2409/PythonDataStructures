@@ -8,11 +8,12 @@ while flag:
 
     try:
         print('Enter the number of elements to be added to the array')
+        # getting an input as a positive integer as the size of the new array can't be
         num = util.get_positive_integer()
         counter = 0
         array = []
         print("Enter the elements for the array")
-
+        # storing the elements in the array
         while counter in range(num):
             inputnum = util.get_integer()
             array.append(inputnum)

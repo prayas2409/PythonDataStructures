@@ -10,6 +10,7 @@ while flag:
         dict1.clear()
         count = 0
         for io in sets:
+            # storing the index as the key and the values
             dict1[count] = io
             count += 1
         print(dict1)

@@ -1,4 +1,5 @@
 from Utility.UtilityDataStructures import UtilityDataStructures
+
 util = UtilityDataStructures()
 flag: bool = True
 while flag:
@@ -6,17 +7,16 @@ while flag:
     try:
         list1 = ['Prayas', 'Deepak', 'Sunil', 'Veejay', 'Suhas', 'Narayan', 'Ajay']
         list2 = ['Rakesh', 'sunil', 'Manoj']
-        flag = False
-        for string1 in list1:
-           for string2 in list2:
-               if string1.lower() == string2.lower():
-                    print(True)
-                    exit()
-        print(False)
+        print(list1)
+        print(list2)
+        # call the function and it the value returned is true prints common else says no common element
+        if util.if_common_element(list1, list2):
+            print("the list have common element")
+        else:
+            print("no common element")
 
     except Exception as exep:
         print("Process stopped because %s" % exep)
     print("To exit press 0 else press any other number")
     if util.get_integer() == 0:
         flag = False
-

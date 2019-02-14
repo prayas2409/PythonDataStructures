@@ -8,8 +8,11 @@ while flag:
         print(tuple1)
         print("Enter the item to be removed")
         user_input = input()
+        # as tuple is immutable storing the values of tuple in the list
         list1 = list(tuple1)
+        # removing the element from the list
         list1.remove(user_input)
+        # storing values back to the tuple from the updated list
         tuple1 = tuple(list1)
         print(tuple1)
 

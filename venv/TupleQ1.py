@@ -3,6 +3,7 @@ util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
+        # creating a tuple
         tuple1 = ('apple', 'banana')
         print(tuple1)
 

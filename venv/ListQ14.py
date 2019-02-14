@@ -4,9 +4,9 @@ flag: bool = True
 while flag:
     try:
         list1 = ['10', '10', '100', '0', '0']
-        print("l1 is ", list1)
+        print("list1 is ", list1)
         list2 = ['100', '0', '0', '10', '10']
-        print('l2 is ', list2)
+        print('list2 is ', list2)
         listtemp = ['']
         list1store = []
 
@@ -14,9 +14,12 @@ while flag:
             print(False)
             exit()
         n = list1.__len__()
+        # multiplying the list one into 2 as the traversing can start from any point
         list1 *= 2
+        # joining each element in the list1 and storing as string and will check if the string2 is in this string
         str1 = ''.join(list1)
         print('str1 is', str1)
+        # joining each element in the list2 and storing as string
         str2 = ''.join(list2)
         print('str2 is ', str2)
         if str1.__contains__(str2):

@@ -7,6 +7,7 @@ while flag:
         print(set1)
         set2 = {4, 5, 6, 1, 2}
         print(set2)
+        # storing the elements which are either of the sets
         set3 = set1 | set2
         print(set3)
 

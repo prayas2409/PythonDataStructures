@@ -9,6 +9,7 @@ while flag:
         print('l2 is ', list2)
         list3 = []
         for string in list1:
+            # storing just the common elements in the list1 and list2
             if list2.__contains__(string):
                 list3.append(string)
         print("Common items in l1 and l2 are ", list3)

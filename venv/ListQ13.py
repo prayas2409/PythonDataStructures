@@ -8,6 +8,7 @@ while flag:
         list2 = ['pop', 'poy', 'Red']
         print('list2 is ', list2)
         for string in list2:
+            # appending each word from list2 into list1
             list1.append(string)
         print("list1 is ", list1)
 

@@ -5,6 +5,7 @@ while flag:
     try:
         set1 = {1, 2, 3}
         print(set1)
+        # adding the new element in the set
         set1.add(12)
         set1.add(13)
         print(set1)
