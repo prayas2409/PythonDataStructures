@@ -1,4 +1,5 @@
 from Utility.UtilityDataStructures import UtilityDataStructures
+import array as ar
 flag: bool = True
 while flag:
     try:
@@ -6,7 +7,7 @@ while flag:
         util = UtilityDataStructures()
         num = util.get_positive_integer()
         counter = 0
-        array = []
+        array = ar.array('i',[])
 
         print("Enter the elements for the array")
         while counter in range(0, num):

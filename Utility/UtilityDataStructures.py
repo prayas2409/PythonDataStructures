@@ -8,6 +8,7 @@ class UtilityDataStructures:
     def get_integer(self):
         while True:
             try:
+                # try to convert the input to integer
                 numinput = int(input())
                 return numinput
             except:
@@ -17,6 +18,7 @@ class UtilityDataStructures:
         while True:
             try:
                 numinput = int(input())
+                # trying to check if the number is greater than 0
                 if numinput > 0:
                     return numinput
                 else:
@@ -27,8 +29,10 @@ class UtilityDataStructures:
     def delete_from_back(dlist, ditem):
 
         llist = [dlist]
+        # reverse list
         llist.reverse()
-        llist.__delitem__(ditem)
+        # deletes first occurrence of the item
+        llist.remove(ditem)
         llist.reverse()
         print('deleted successfully')
         return llist
@@ -37,14 +41,17 @@ class UtilityDataStructures:
     def swipe_from_r_to_l(self,list, start, last):
 
         for counter in range(start, last):
+            # swiping of the elements from right to left
             list[counter] = list[counter+1]
         return list
 
     def equalsList(self, list1, list2):
+        # if length not equal
         if list1.__len__() != list2.__len__():
             return False
         else:
             for counter in range(list1.__len__()):
+                # each element is equal or not
                 if list1[counter] != list2[counter]:
                     return False
             return True
@@ -63,12 +70,14 @@ class UtilityDataStructures:
         longstring = ""
         for item in list1:
             if item.__len__() > llength:
+                # if length greater than current store the length
                 llength = item.__len__()
                 longstring = item
         print("longest element is ", longstring)
         return llength
 
     def sort(self, list1):
+        # sorting
         for counter1 in range(0, list1.__len__()):
             for counter2 in range(counter1+1, list1.__len__()):
                 if list1[counter1] > list1[counter2]:

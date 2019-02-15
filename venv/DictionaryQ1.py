@@ -23,12 +23,13 @@ while flag:
                     temp = values[i]
                     values[i] = values[i+1]
                     values[i+1] = temp
-        # clearing the dictionary to store values again in dictionary
-        dict1.clear()
+        # store empty values again in dictionary to make it clear
+        dict1 = {'': ''}
         print("The dictionary after sorting is")
         # storing values in dictionary after sorting
         for i in range(keys.__len__()):
             dict1[keys[i]] = values[i]
+        dict1.__delitem__('')
         print("Now printing dictionary")
         print(dict1)
 
@@ -43,9 +44,10 @@ while flag:
                     temp = values[i]
                     values[i] = values[i+1]
                     values[i+1] = temp
-        dict.clear()
+        dict1 = {'': ''}
         for i in range(keys.__len__()):
             dict1[keys[i]] = values[i]
+        dict1.__delitem__('')
         print("Now printing dictionary")
         print(dict1)
 

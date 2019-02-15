@@ -1,5 +1,5 @@
 from Utility.UtilityDataStructures import UtilityDataStructures
-
+import array as ar
 flag: bool = True
 while flag:
     try:
@@ -9,7 +9,7 @@ while flag:
         # input from user
         num = util.get_positive_integer()
         # empty array
-        array = []
+        array = ar.array('i',[1, 2, 3, 4])
         print("Enter the elements for the array")
         # counts number of times the number occured
         count = 0

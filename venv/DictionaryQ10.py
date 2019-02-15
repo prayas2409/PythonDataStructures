@@ -8,7 +8,7 @@ while flag:
         dict1 = {'': ''}
         dict1.clear()
         sets = [{'id': 1, 'success': True, 'name': 'Lary'}, {'id': 2, 'success': False, 'name': 'Rabi'}, {'id': 3, 'success': True, 'name': 'Alex'}]
-        {dict1.update(io) for io in sets}
+        {dict1.update(item) for item in sets}
         for item in dict1.items():
             print(item)
         count = 0
