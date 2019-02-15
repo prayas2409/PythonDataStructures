@@ -9,7 +9,8 @@ while flag:
         # it checks if the user input is present in the tuple
         if tuple1.__contains__(user_input):
             print("the string is present")
-
+        else:
+            print("String not present")
     except Exception as exep:
         print("Process stopped because %s" % exep)
     print("To exit press 0 else press any other number")

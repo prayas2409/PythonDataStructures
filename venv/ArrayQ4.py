@@ -7,7 +7,7 @@ while flag:
         util = UtilityDataStructures()
         num = util.get_positive_integer()
         counter = 0
-        array = ar.array('i',[])
+        array = ar.array('i', [])
 
         print("Enter the elements for the array")
         while counter in range(0, num):

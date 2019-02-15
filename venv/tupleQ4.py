@@ -4,7 +4,7 @@ util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
-        tuple1 = ('apple', 1.23, 54.343, 'f', [10, 20], {20})
+        tuple1 = tuple(['apple', 1.23, 54.343, 'f', [10, 20], {20}])
         # copying the tuple to different tuple
         tuple2 = deepcopy(tuple1)
         print(tuple1)

@@ -4,23 +4,19 @@ util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
-
-        matrix1 = [[12, 7, 3], [4, 5, 6], [7, 8, 9]]
-        print(matrix1)
-        matrix2 = [1, 2, 3]
-        print(matrix2)
+        matrix1 = [1, 2, 3]
+        matrix2 = [[5, 1, 3], [1, 1, 1], [1, 2, 1]]
         item = 0
-        '''
-        matrix3 = [[ [item += (matrix1[row][col] * matrix2[0][col])] for row in range(0, 3)] for col in range(0, 3)]
-
-        for row in range(0, 3):
-            for col in range(0, 3):
-                item = 0;
-                for i in  range(0,3):
-                    item +=
-
-    '''
-
+        if matrix1.__len__() != matrix2.__len__():
+            print("can't multiply")
+            exit()
+        matrix3 = [0 for col in range(0, len(matrix1))]
+        for row in range(0, matrix2.__len__()):
+            item = 0
+            for col in range(0, len(matrix2)):
+                item += matrix1[col] * matrix2[col][row]
+            matrix3[row] = item
+        print(matrix3)
     except Exception as e:
         print("Process stopped because %s" % e)
     print("To exit press 0 else press any other number")

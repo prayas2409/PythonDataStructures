@@ -10,15 +10,17 @@ while flag:
         dict2 = {2: 12, 3: 16}
         dict3 = {4: 14, 5: 17}
         print("The dictionaries before storing are")
-
         print("The 3 dictionaries are")
         print(dict1)
         print(dict2)
         print(dict3)
+
         # clearing the dictionary for storing the new values
         dictnew.clear()
+
         # copy dict1 to new dictionary
         dictnew = dict1.copy()
+
         # updating the dictionary if keys not present then gets added
         dictnew.update(dict2)
         dictnew.update(dict3)

@@ -4,7 +4,7 @@ flag: bool = True
 while flag:
     try:
         # creating a tuple
-        tuple1 = ('apple', 'banana')
+        tuple1 = tuple({'apple', 'banana'})
         print(tuple1)
 
     except Exception as exep:

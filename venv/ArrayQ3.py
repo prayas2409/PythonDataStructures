@@ -9,7 +9,7 @@ while flag:
         # input from user
         num = util.get_positive_integer()
         # empty array
-        array = ar.array('i',[1, 2, 3, 4])
+        array = ar.array('i', [])
         print("Enter the elements for the array")
         # counts number of times the number occured
         count = 0

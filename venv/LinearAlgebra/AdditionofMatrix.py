@@ -1,4 +1,3 @@
-
 from Utility.UtilityDataStructures import UtilityDataStructures
 util = UtilityDataStructures()
 flag: bool = True
@@ -11,7 +10,6 @@ while flag:
         # adding the elements at the same positions
         matrix3 = [[matrix1[row][col] + matrix2[row][col] for row in range(0, 3)] for col in range(0, 3)]
         print(matrix3)
-
     except Exception as e:
         print("Process stopped because %s" % e)
     print("To exit press 0 else press any other number")
