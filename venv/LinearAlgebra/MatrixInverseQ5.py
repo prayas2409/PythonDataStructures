@@ -3,16 +3,19 @@ util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
-        matrix1 = [[1, 2, 3], [3, 4, 5], [7, 6, 4]]
-        for item in matrix1:
-            print(item)
+        matrix1 = [[3, 1, -1], [2, -2, 0], [1, 2, -1]]
 
-        
+        matrix_object = Matrix()
 
-        transpose = [[matrix1[row][col] for row in range(0, len(matrix1[0]))] for col in range(0, len(matrix1))]
-        print("The inverse for given matrix is")
-        for item in transpose:
-            print(item)
+        adjoint_matrix = [[0, 0, 0]] * 3
+        # adjoint_matrix.clear()
+
+        for row in range(0, len(matrix1[0])):
+            for col in range(0, len(matrix1)):
+
+                adjoint_matrix[row][col] =item
+
+
     except Exception as e:
         print("Process stopped because %s" % e)
     print("To exit press 0 else press any other number")
