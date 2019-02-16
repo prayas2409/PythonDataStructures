@@ -1,44 +1,56 @@
 class Matrix:
-
+    # Setter
     def __set__(self, matrix_passed):
         self.matrix_original = matrix_passed
+    # Getter
 
     def __get__(self):
         return self.matrix_original
 
+    # Function to print matrix
     def print_Matrix(self, matrix_passed):
         print("printing the matrix")
         for item in matrix_passed:
             print(item)
 
+    # calculate the co factors of the elements of specific row and column
     def cofactors(self, row, col, matrix_passed):
         list1 = list()
         for row1 in range(0, len(matrix_passed[row])):
             for col1 in range(0, len(matrix_passed[row])):
+                # eliminating the current row and column and entering rest to the list
                 if row1 != row and col1 != col:
                     list1.append(matrix_passed[row1][col1])
         counter = 0
+        # multiplying the cross elements that is first and last element in the list
         item = (list1[counter] * list1[-(counter + 1)])
         counter += 1
+        # substracting the mutiplication of the rest 2 values from the previous one calculated
         item = item - (list1[counter] * list1[-(counter + 1)])
-        print(" item is ", item)
         return item
 
     def transpose_Matrix(self, matrix_passed):
         print("Creating transpose for a matrix")
+        # new matrix will be calculated by exchanging the elements of previous matrix
         transpose_adj_matrix = [[matrix_passed[row][col] for row in range(0, len(matrix_passed[0]))] for col in range(0, len(matrix_passed))]
         return transpose_adj_matrix
 
     def calculate_adjoint(self, matrix_passed):
         adjoint_matrix = []
-
         for row in range(0, len(matrix_passed[0])):
             list1 = list()
             for col in range(0, len(matrix_passed)):
-                item = self.cofactors(row, col, matrix_passed)
-                list1.append(item)
+                # adding each element returned by cofactor method in list
+                list1.append(self.cofactors(row, col, matrix_passed))
+            # the list contains the co factors of each row so appends for each row
             adjoint_matrix.append(list1)
-        
+        temp = -1
+        # Here we'll multiply each elements by +-+ signs respectively
+        for row in range(0, matrix_passed.__len__()):
+            for col in range(0, matrix_passed[row].__len__()):
+                temp *= -1
+                adjoint_matrix[row][col] *= temp
+
         return adjoint_matrix
 
     def calculate_determinant(self, matrix_passed):
@@ -46,8 +58,10 @@ class Matrix:
         item = 0
         for col in range(0, len(matrix_passed)):
             cofactor = self.cofactors(0, col, matrix_passed)
-
-            item += (temp*-1) * (matrix_passed[0][col] * cofactor)
+            # as we need to add first substract second and add third
+            temp *= -1
+            item += (temp) * (matrix_passed[0][col] * cofactor)
+            print("col is", col, ', element taken is ', matrix_passed[0][col], 'and co factor is ', cofactor)
         return item
 
     def matrix_multiply(self, matrix1, matrix2):
@@ -64,12 +78,11 @@ class Matrix:
         matrix1 = [[1, 3, 7], [4, 2, 3], [1, 2, 1]]
         self.print_Matrix(matrix1)
         adjoint_matrix = self.calculate_adjoint(matrix1)
-        self.print_Matrix(adjoint_matrix)
         adjoint_matrix = self.transpose_Matrix(adjoint_matrix)
-        self.print_Matrix(adjoint_matrix)
         determinant = self.calculate_determinant(matrix1)
-        print(determinant)
+        print("determinant is ", determinant, " and the inverse matrix is ")
         inverse_matrix = [[adjoint_matrix[row][col]/determinant for col in range(0, len(matrix1[row]))] for row in range(0, len(matrix1))]
+        self.print_Matrix(inverse_matrix)
         print("or \n 1/", determinant, 'x')
         self.print_Matrix(adjoint_matrix)
         print("checking if inverse is right")
