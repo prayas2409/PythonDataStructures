@@ -1,6 +1,3 @@
-
-from Utility.UtilityDataStructures import UtilityDataStructures
-util = UtilityDataStructures()
 flag: bool = True
 while flag:
 
@@ -14,9 +11,10 @@ while flag:
             # adding the values of the list
             total += elements
         print(total)
+        print("To exit press 0 else press any other number")
+        if input() == 0:
+            flag = False
+
         print("also by sum method", sum(list1))
     except Exception as e:
         print("Process stopped because %s" % e)
-    print("To exit press 0 else press any other number")
-    if util.get_integer() == 0:
-        flag = False

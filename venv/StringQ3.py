@@ -1,5 +1,3 @@
-from Utility.UtilityDataStructures import UtilityDataStructures
-util = UtilityDataStructures()
 flag: bool = True
 while flag:
 
@@ -15,5 +13,5 @@ while flag:
     except Exception as e:
         print("Process stopped because %s" % e)
     print("To exit press 0 else press any other number")
-    if util.get_integer() == 0:
+    if input() == 0:
         flag = False

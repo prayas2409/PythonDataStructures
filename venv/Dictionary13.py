@@ -1,5 +1,3 @@
-from Utility.UtilityDataStructures import UtilityDataStructures
-util = UtilityDataStructures()
 flag: bool = True
 
 while flag:
@@ -19,17 +17,17 @@ while flag:
         val = []
         count = 0
         # for key, value in dictionary items
-        for (k, v) in dict1.items():
+        for (key, value) in dict1.items():
             # storing unique vals in new list
-            if val.__contains__(v):
+            if val.__contains__(value):
                 continue
             else:
-                val.append(v)
+                val.append(value)
                 count += 1
         print(val, " and count is ", count)
 
     except Exception as e:
         print("Process stopped because %s" % e)
     print("To exit press 0 else press any other number")
-    if util.get_integer() == 0:
+    if input() == 0:
             flag = False

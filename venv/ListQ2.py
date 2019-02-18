@@ -1,6 +1,3 @@
-
-from Utility.UtilityDataStructures import UtilityDataStructures
-util = UtilityDataStructures()
 flag: bool = True
 while flag:
 
@@ -13,8 +10,8 @@ while flag:
             # multiplying the values in the list
             total *= item
         print(total)
+        print("To exit press 0 else press any other number")
+        if input() == 0:
+            flag = False
     except Exception as exep:
         print("Process stopped because %s" % exep)
-    print("To exit press 0 else press any other number")
-    if util.get_integer() == 0:
-        flag = False

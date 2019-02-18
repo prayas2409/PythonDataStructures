@@ -31,5 +31,5 @@ while flag:
     '''
 
     print("To exit press 0 else press any other number")
-    if util.get_integer() == 0:
+    if input() == 0:
         flag = False

@@ -1,5 +1,5 @@
 from Utility.UtilityDataStructures import UtilityDataStructures
-import array as ar
+import array as array_object
 flag: bool = True
 while flag:
     try:
@@ -7,7 +7,7 @@ while flag:
         util = UtilityDataStructures()
         num = util.get_positive_integer()
         counter = 0
-        array = ar.array('i', [])
+        array = array_object.array('i', [])
 
         print("Enter the elements for the array")
         while counter in range(0, num):
@@ -36,5 +36,5 @@ while flag:
     except Exception as e:
         print("Process stopped because %s" % e)
     print("Enter 0 to exit another value to continue")
-    if util.get_integer() == 0:
+    if input() == 0:
             flag = False

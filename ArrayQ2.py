@@ -10,6 +10,7 @@ while flag:
         util = UtilityDataStructures()
         num = util.get_positive_integer()
         counter = 0
+        # creating an empty array
         array = ar.array('i', [])
         print("Enter the elements for the array")
         # storing the elements by taking input from the user
@@ -28,5 +29,5 @@ while flag:
     except Exception as exep:
         print("Process stopped because %s" % exep)
     print("To exit press 0 else press any other number")
-    if util.get_integer() == 0:
+    if input() == 0:
         flag = False

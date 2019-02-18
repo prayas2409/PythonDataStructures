@@ -1,6 +1,3 @@
-
-from Utility.UtilityDataStructures import UtilityDataStructures
-util = UtilityDataStructures()
 flag: bool = True
 while flag:
     try:
@@ -13,8 +10,8 @@ while flag:
             print(item)
         count = 0
         # taking from sets as the dictionary does not have multiple values for same keys
-        for io in sets:
-            if io['success']:
+        for item in sets:
+            if item['success']:
                 # the dictionary has the value True at key success in it
                 count += 1
         print("The success has the value True ", count, " times")
@@ -23,5 +20,5 @@ while flag:
         # printing the exception
             print("Process stopped because %s" % e)
     print("To exit press 0 else press any other number")
-    if util.get_integer() == 0:
+    if input() == 0:
         flag = False

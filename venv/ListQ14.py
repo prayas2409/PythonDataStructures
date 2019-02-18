@@ -1,5 +1,4 @@
-from Utility.UtilityDataStructures import UtilityDataStructures
-util = UtilityDataStructures()
+
 flag: bool = True
 while flag:
     try:
@@ -7,8 +6,8 @@ while flag:
         print("list1 is ", list1)
         list2 = ['100', '0', '0', '10', '10']
         print('list2 is ', list2)
-        listtemp = ['']
-        list1store = []
+        listtemp = list()
+        list1store = list()
 
         if list1.__len__() != list2.__len__():
             print(False)
@@ -32,5 +31,5 @@ while flag:
     except Exception as exep:
         print("Process stopped because %s" % exep)
     print("To exit press 0 else press any other number")
-    if util.get_integer() == 0:
+    if input() == 0:
         flag = False

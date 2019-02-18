@@ -1,9 +1,5 @@
-
-from Utility.UtilityDataStructures import UtilityDataStructures
-util = UtilityDataStructures()
 flag: bool = True
 while flag:
-
     try:
         sets = [{'id': 1, 'success': True, 'name': 'Lary'}, {'id': 2, 'status': False, 'naam': 'Rabi'}, {'id': 3, 'success': True, 'name': 'Alex'}]
         flag = True
@@ -30,8 +26,8 @@ while flag:
                     keylist.append(key)
                     count += 1
         print(keylist, "and number of different keys is ", count)
+        print("To exit press 0 else press any other number")
+        if input() == 0:
+            flag = False
     except Exception as e:
             print("Process stopped because %s" % e)
-    print("To exit press 0 else press any other number")
-    if util.get_integer() == 0:
-        flag = False
