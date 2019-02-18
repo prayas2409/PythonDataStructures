@@ -6,80 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0376c706-d6b5-4522-b461-384ca7dddfd6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Probability and Statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Rains_Traffic_Late.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/headsAndTails.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayQ2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayQ2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayQ1.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrayQ1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ArrayQ3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ArrayQ3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ArrayQ4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ArrayQ4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Dictionary13.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Dictionary13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ10.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ11.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ12.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ6.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ7.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ8.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/DictionaryQ9.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/DictionaryQ9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/LinearAlgebra/AdditionofMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/LinearAlgebra/AdditionofMatrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/LinearAlgebra/MatrixMulOneMatrixQ3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/LinearAlgebra/MatrixMulOneMatrixQ3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/LinearAlgebra/MatrixMulWithNumberQ2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/LinearAlgebra/MatrixMulWithNumberQ2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/LinearAlgebra/MatrixQ4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/LinearAlgebra/MatrixQ4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/LinearAlgebra/matrixTransposeQ6.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/LinearAlgebra/matrixTransposeQ6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ10" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ11.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ12.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ13.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ14.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ15.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ16.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ17.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ6.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ7.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ8.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ListQ9.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ListQ9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SetQ10.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SetQ12.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SetQ2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SetQ3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SetQ4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SetQ7.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SetQ8.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/SetQ9.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/SetQ9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Setsetdifference.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Setsetdifference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/StringQ1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StringQ1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/StringQ10.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StringQ10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/StringQ11.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StringQ11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/StringQ12.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StringQ12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/StringQ2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StringQ2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/StringQ3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StringQ3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/StringQ4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StringQ4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/StringQ5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StringQ5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/StringQ6.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StringQ6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/StringQ7.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StringQ7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/StringQ8.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StringQ8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/TupleQ1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/TupleQ1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/TupleQ10.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/TupleQ10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/TupleQ2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/TupleQ2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/TupleQ3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/TupleQ3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/TupleQ5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/TupleQ5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/TupleQ6.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/TupleQ6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/TupleQ7.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/TupleQ7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/TupleQ8.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/TupleQ8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/TupleQ9.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/TupleQ9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/setQ5.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/setQ5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/setQ6.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/setQ6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/setsQ1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/setsQ1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/stringQ9.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/stringQ9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/tupleQ4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/tupleQ4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,9 +19,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Probability and Statistics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/LinearAlgebra/MatrixInverseQ5.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Rains_Traffic_Late.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -114,9 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/venv/StringQ3.py" />
-        <option value="$PROJECT_DIR$/venv/StringQ2.py" />
-        <option value="$PROJECT_DIR$/venv/StringQ1.py" />
         <option value="$PROJECT_DIR$/venv/setsQ1.py" />
         <option value="$PROJECT_DIR$/venv/Setsetdifference.py" />
         <option value="$PROJECT_DIR$/venv/SetQ12.py" />
@@ -165,6 +105,9 @@
         <option value="$PROJECT_DIR$/venv/LinearAlgebra/AdditionofMatrix.py" />
         <option value="$PROJECT_DIR$/venv/LinearAlgebra/MatrixMulWithNumberQ2.py" />
         <option value="$PROJECT_DIR$/venv/LinearAlgebra/MatrixMulOneMatrixQ3.py" />
+        <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/headsAndTails.py" />
+        <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Probability and Statistics.py" />
+        <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Rains_Traffic_Late.py" />
       </list>
     </option>
   </component>
@@ -202,7 +145,7 @@
               <item name="PythonProgrammingPrayas" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonProgrammingPrayas" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="LinearAlgebra" type="462c0819:PsiDirectoryNode" />
+              <item name="StatisticsAndProbablitiy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,28 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MatrixMulOneMatrixQ3">
-    <configuration name="ListQ14" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonProgrammingPrayas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/ListQ14.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Rains_Traffic_Late">
     <configuration name="MatrixMulOneMatrixQ3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SetQ3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Probability and Statistics" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,11 +219,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SetQ3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Probability and Statistics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Rains_Traffic_Late" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProgrammingPrayas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Rains_Traffic_Late.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,7 +295,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="setQ5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="headsAndTails" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -360,11 +303,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/setQ5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/headsAndTails.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Rains_Traffic_Late" />
+        <item itemvalue="Python.headsAndTails" />
+        <item itemvalue="Python.Probability and Statistics" />
         <item itemvalue="Python.MatrixMulOneMatrixQ3" />
         <item itemvalue="Python.MatrixMulWithNumberQ2" />
-        <item itemvalue="Python.ListQ14" />
-        <item itemvalue="Python.SetQ3" />
-        <item itemvalue="Python.setQ5" />
       </list>
     </recent_temporary>
   </component>
@@ -398,14 +341,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1299" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1716301" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289256" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.353719" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.353719" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3983471" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,26 +361,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2452978" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.353719" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3983471" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32952693" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" weight="0.32952693" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -467,19 +389,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/StringQ1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Setsetdifference.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/SetQ12.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/SetQ10.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -560,13 +469,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/ListQ12.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ListQ11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/ListQ10">
       <provider selected="true" editor-type-id="text-editor">
@@ -750,7 +652,39 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/LinearAlgebra/MatrixInverseQ5.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ListQ11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="59" lean-forward="true" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/headsAndTails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="13" column="72" lean-forward="true" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Probability and Statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Rains_Traffic_Late.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
