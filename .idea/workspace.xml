@@ -6,8 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0376c706-d6b5-4522-b461-384ca7dddfd6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/venv/TupleQ3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/TupleQ3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/tupleQ4.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/tupleQ4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/CancerUsingBayesTheorem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/LinearAlgebra/Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/LinearAlgebra/Matrix.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,19 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/DictionaryQ5.py">
+        <entry file="file://$PROJECT_DIR$/venv/LinearAlgebra/Matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+            <state relative-caret-position="175">
+              <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/DictionaryQ6.py">
+        <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/CancerUsingBayesTheorem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="235">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -55,8 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/venv/SetQ12.py" />
-        <option value="$PROJECT_DIR$/venv/SetQ10.py" />
         <option value="$PROJECT_DIR$/venv/SetQ9.py" />
         <option value="$PROJECT_DIR$/venv/SetQ8.py" />
         <option value="$PROJECT_DIR$/venv/SetQ7.py" />
@@ -106,6 +105,8 @@
         <option value="$PROJECT_DIR$/venv/tupleQ4.py" />
         <option value="$PROJECT_DIR$/venv/DictionaryQ11.py" />
         <option value="$PROJECT_DIR$/venv/DictionaryQ7.py" />
+        <option value="$PROJECT_DIR$/venv/LinearAlgebra/Matrix.py" />
+        <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/CancerUsingBayesTheorem.py" />
       </list>
     </option>
   </component>
@@ -117,11 +118,32 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PythonProgrammingPrayas" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="PythonProgrammingPrayas" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="venv" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PythonProgrammingPrayas" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="venv" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="StatisticsAndProbablitiy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,7 +194,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DictionaryQ7">
+  <component name="RunManager" selected="Python.CancerUsingBayesTheorem">
+    <configuration name="CancerUsingBayesTheorem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProgrammingPrayas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/CancerUsingBayesTheorem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="DictionaryQ11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -236,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TupleQ3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,11 +287,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/LinearAlgebra" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/TupleQ3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/LinearAlgebra/Matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,34 +342,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tupleQ4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonProgrammingPrayas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/tupleQ4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CancerUsingBayesTheorem" />
+        <item itemvalue="Python.Matrix" />
         <item itemvalue="Python.DictionaryQ7" />
         <item itemvalue="Python.DictionaryQ11" />
         <item itemvalue="Python.DictionaryQ12" />
-        <item itemvalue="Python.tupleQ4" />
-        <item itemvalue="Python.TupleQ3" />
       </list>
     </recent_temporary>
   </component>
@@ -347,12 +369,12 @@
     <frame x="67" y="27" width="1299" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1716301" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23746082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289256" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.353719" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.353719" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3983471" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,13 +416,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/setQ6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/setQ5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -580,11 +595,6 @@
     <entry file="file://$PROJECT_DIR$/venv/LinearAlgebra/AdditionofMatrix.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/LinearAlgebra/Matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-946" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Rains_Traffic_Late.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -677,6 +687,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/DictionaryQ5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -684,10 +701,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DictionaryQ6.py">
+    <entry file="file://$PROJECT_DIR$/venv/LinearAlgebra/Matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="175">
+          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/CancerUsingBayesTheorem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

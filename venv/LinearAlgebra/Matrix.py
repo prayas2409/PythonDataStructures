@@ -2,8 +2,8 @@ class Matrix:
     # Setter
     def __set__(self, matrix_passed):
         self.matrix_original = matrix_passed
-    # Getter
 
+    # Getter
     def __get__(self):
         return self.matrix_original
 
@@ -29,6 +29,7 @@ class Matrix:
         item = item - (list1[counter] * list1[-(counter + 1)])
         return item
 
+    # returns the transpose of any matrix
     def transpose_Matrix(self, matrix_passed):
         print("Creating transpose for a matrix")
         # new matrix will be calculated by exchanging the elements of previous matrix
@@ -61,7 +62,7 @@ class Matrix:
             # as we need to add first substract second and add third
             temp *= -1
             item += (temp) * (matrix_passed[0][col] * cofactor)
-            print("col is", col, ', element taken is ', matrix_passed[0][col], 'and co factor is ', cofactor)
+            # print("col is", col, ', element taken is ', matrix_passed[0][col], 'and co factor is ', cofactor)
         return item
 
     def matrix_multiply(self, matrix1, matrix2):
