@@ -4,6 +4,8 @@ while flag:
     try:
         tuple1 = tuple(['apple', 1.23, 54.343, 'f', [10, 20], {20}])
         # copying the tuple to different tuple
+        tuple2 = tuple1
+        # or using deepcopy
         tuple2 = deepcopy(tuple1)
         print(tuple1)
         print(tuple2)
