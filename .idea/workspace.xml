@@ -6,10 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0376c706-d6b5-4522-b461-384ca7dddfd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/X is a normally normally distributed variable with mean μ = 30 and standard deviation σ = 4..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Zscore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Q13. Corelation Coefficient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/to find the probability of getting a random number from the interval [2, 7].py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/CancerUsingBayesTheorem.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/CancerUsingBayesTheorem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/X is a normally normally distributed variable with mean μ = 30 and standard deviation σ = 4..py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Q10 normally distributed variable and Q11 Radar Unit with Constructor Overloading .py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,28 +20,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/LinearAlgebra/Matrix.py">
+        <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Zscore.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/CancerUsingBayesTheorem.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+            <state relative-caret-position="255">
+              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Zscore.py">
+        <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Q13. Corelation Coefficient.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="249">
+              <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Utility/UtilityDataStructures.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Q10 normally distributed variable and Q11 Radar Unit with Constructor Overloading .py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="17" column="62" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="17" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -66,12 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/venv/setQ5.py" />
-        <option value="$PROJECT_DIR$/venv/setQ6.py" />
-        <option value="$PROJECT_DIR$/venv/SetQ4.py" />
-        <option value="$PROJECT_DIR$/venv/SetQ2.py" />
-        <option value="$PROJECT_DIR$/venv/SetQ3.py" />
-        <option value="$PROJECT_DIR$/venv/ListQ17.py" />
         <option value="$PROJECT_DIR$/venv/ListQ16.py" />
         <option value="$PROJECT_DIR$/venv/ListQ15.py" />
         <option value="$PROJECT_DIR$/venv/ListQ14.py" />
@@ -116,11 +119,17 @@
         <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/CancerUsingBayesTheorem.py" />
         <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/demo.py" />
         <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Zscore.py" />
+        <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/to find the probability of getting a random number from the interval [2, 7].py" />
+        <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/The speeds are normally distributed with a mean of 90 km/hr and a standard deviation of 10 km/hr. Write a program to find the probability that a car picked at random is travelling at more than 100 km/hr?.py" />
+        <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/to find the probability that a car picked at random is travelling at more than 100 km/hr.py" />
+        <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/A radar unit is used to measure speeds of cars on a motorway.py" />
         <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/X is a normally normally distributed variable with mean μ = 30 and standard deviation σ = 4..py" />
+        <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Q10 normally distributed variable and Q11 Radar Unit with Constructor Overloading .py" />
+        <option value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Q13. Corelation Coefficient.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="77" />
     <option name="y" value="47" />
     <option name="width" value="1279" />
@@ -138,6 +147,11 @@
             <path>
               <item name="PythonProgrammingPrayas" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="PythonProgrammingPrayas" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Utility" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="PythonProgrammingPrayas" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -205,8 +219,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.X is a normally normally distributed variable with mean μ = 30 and standard deviation σ = 4.">
-    <configuration name="CancerUsingBayesTheorem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Q13. Corelation Coefficient">
+    <configuration name="Q13. Corelation Coefficient" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProgrammingPrayas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,28 +232,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/CancerUsingBayesTheorem.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonProgrammingPrayas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/LinearAlgebra" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/LinearAlgebra/Matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Q13. Corelation Coefficient.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,7 +274,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/X is a normally normally distributed variable with mean μ = 30 and standard deviation σ = 4..py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Q10 normally distributed variable and Q11 Radar Unit with Constructor Overloading .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,13 +346,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="to find the probability of getting a random number from the interval [2, 7]" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProgrammingPrayas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/StatisticsAndProbablitiy/to find the probability of getting a random number from the interval [2, 7].py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q13. Corelation Coefficient" />
         <item itemvalue="Python.X is a normally normally distributed variable with mean μ = 30 and standard deviation σ = 4." />
+        <item itemvalue="Python.to find the probability of getting a random number from the interval [2, 7]" />
         <item itemvalue="Python.Zscore" />
         <item itemvalue="Python.demo" />
-        <item itemvalue="Python.CancerUsingBayesTheorem" />
-        <item itemvalue="Python.Matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +392,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1299" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23746082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -394,7 +407,7 @@
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32952693" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289256" />
-      <window_info anchor="bottom" id="Event Log" order="11" weight="0.32952693" />
+      <window_info anchor="bottom" id="Event Log" order="11" weight="0.3289256" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -432,43 +445,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/SetQ2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ListQ17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ListQ16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ListQ15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ListQ14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ListQ13.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ListQ12.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/ListQ10">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
@@ -717,17 +693,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/X is a normally normally distributed variable with mean μ = 30 and standard deviation σ = 4..py">
+    <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/to find the probability of getting a random number from the interval [2, 7].py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        <state relative-caret-position="225">
+          <caret line="15" column="58" lean-forward="true" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/The speeds are normally distributed with a mean of 90 km/hr and a standard deviation of 10 km/hr. Write a program to find the probability that a car picked at random is travelling at more than 100 km/hr?.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/to find the probability that a car picked at random is travelling at more than 100 km/hr.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/A radar unit is used to measure speeds of cars on a motorway.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Zscore.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="255">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Q10 normally distributed variable and Q11 Radar Unit with Constructor Overloading .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="62" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="17" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/StringQ10.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility/UtilityDataStructures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/StatisticsAndProbablitiy/Q13. Corelation Coefficient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
         </state>
       </provider>
     </entry>
