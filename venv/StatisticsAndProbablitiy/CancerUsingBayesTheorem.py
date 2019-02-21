@@ -19,3 +19,4 @@ class BayesTheorem:
 bayes_object = BayesTheorem()
 print("The probability of having the cancer when you got the test +ve is %.2f" % bayes_object.prob_Cancer_When_Result_Positive())
 # for a next time the value of having cancer will be the previously calculated
+ 
