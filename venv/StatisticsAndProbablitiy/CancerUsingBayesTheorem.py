@@ -16,7 +16,15 @@ class BayesTheorem:
         return p_cancer_given_positive
 
 
-bayes_object = BayesTheorem()
-print("The probability of having the cancer when you got the test +ve is %.2f" % bayes_object.prob_Cancer_When_Result_Positive())
-# for a next time the value of having cancer will be the previously calculated
- 
+try:
+    bayes_object = BayesTheorem()
+    flag: bool = True
+    while flag:
+        bayes_object = BayesTheorem()
+        # for a next time the value of having cancer will be the previously calculated
+        print("The probability of having the cancer when you got the test +ve is %.2f" %
+              bayes_object.prob_Cancer_When_Result_Positive(), "\nTo exit press 0 else press any other number")
+        if input() == 0:
+                    flag = False
+except Exception as e:
+        print("Process stopped because %s" % e)

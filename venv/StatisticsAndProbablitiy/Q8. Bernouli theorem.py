@@ -44,5 +44,13 @@ class Bernouli:
         return 1 - probability_error
 
 
-bernouli_object = Bernouli()
-print("The probability of error 120 is {:f}".format(bernouli_object.calculating_probaility()))
+try:
+    bernouli_object = Bernouli()
+    flag: bool = True
+    while flag:
+        print("The probability of error 120 is {:f}".
+              format(bernouli_object.calculating_probaility()), "\nTo exit press 0 else press any other number")
+        if input() == 0:
+                    flag = False
+except Exception as e:
+        print("Process stopped because %s" % e)

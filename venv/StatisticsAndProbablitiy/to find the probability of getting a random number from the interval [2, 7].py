@@ -10,7 +10,15 @@ class Probability_Random_Number:
         print("The probability to find {} in the set {} is {} ".format(point_x, self.list_numbers, probability))
 
 
-probability_object = Probability_Random_Number()
-util = UtilityDataStructures()
-print("Enter the number to find probability in the range 2 - 7 ")
-probability_object.getting_probability(util.get_integer())
+try:
+    probability_object = Probability_Random_Number()
+    util = UtilityDataStructures()
+    flag: bool = True
+    while flag:
+        print("Enter the number to find probability in the range 2 - 7 ")
+        probability_object.getting_probability(util.get_integer())
+        print("To exit press 0 else press any other number")
+        if input() == 0:
+                    flag = False
+except Exception as e:
+        print("Process stopped because %s" % e)

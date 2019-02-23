@@ -64,8 +64,17 @@ class Correlation_Coefficient:
         )
 
 
-correlation_coeff_object = Correlation_Coefficient()
-correlation_coeff_object.calculate_mean_x_and_y()
-correlation_coeff_object.calculate_standard_deviation_x_and_y()
-correlation_coeff_object.calculate_Correlation_Coefficient()
-correlation_coeff_object.print_All()
+try:
+    correlation_coeff_object = Correlation_Coefficient()
+    flag: bool = True
+    while flag:
+
+        correlation_coeff_object.calculate_mean_x_and_y()
+        correlation_coeff_object.calculate_standard_deviation_x_and_y()
+        correlation_coeff_object.calculate_Correlation_Coefficient()
+        correlation_coeff_object.print_All()
+        print("To exit press 0 else press any other number")
+        if input() == 0:
+                flag = False
+except Exception as e:
+        print("Process stopped because %s" % e)

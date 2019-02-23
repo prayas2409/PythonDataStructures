@@ -23,24 +23,28 @@ class Cards:
         print("The probability od getting an ace after first getting an ace is {}/{} that is {}".format(self.ace, self.cards,self.ace / self.cards))
 
 
-card_object = Cards()
-util = UtilityDataStructures()
-string_list = ("Ace independent", "Ace after King", "Ace after Ace")
-num_input = 1
-while num_input != 0:
-    for counter in range(0, len(string_list)):
-        print(" for {} press {} and press 0 to exit".format(string_list[counter], counter + 1))
-    num_input = util.get_positive_integer()
-    if num_input == 1:
-        card_object = Cards()
-        card_object.ace_In_Pack_Of_Cards()
-    elif num_input == 2:
-        card_object = Cards()
-        card_object.ace_After_King()
-    elif num_input == 3:
-        card_object = Cards()
-        card_object.ace_After_Ace()
-    elif num_input == 0:
-        exit()
-    else:
-        print("Not yet created")
+try:
+    card_object = Cards()
+    util = UtilityDataStructures()
+    string_list = ("Ace independent", "Ace after King", "Ace after Ace")
+    num_input = 1
+    while num_input != 0:
+        for counter in range(0, len(string_list)):
+            print("for {} press {}".format(string_list[counter], counter + 1))
+        print("and press 0 to exit")
+        num_input = util.get_positive_integer()
+        if num_input == 1:
+            card_object = Cards()
+            card_object.ace_In_Pack_Of_Cards()
+        elif num_input == 2:
+            card_object = Cards()
+            card_object.ace_After_King()
+        elif num_input == 3:
+            card_object = Cards()
+            card_object.ace_After_Ace()
+        elif num_input == 0:
+            exit()
+        else:
+            print("Not yet created")
+except Exception as e:
+                print("Process stopped because %s" % e)

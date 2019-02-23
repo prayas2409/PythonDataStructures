@@ -25,7 +25,7 @@ class Matrix:
         # multiplying the cross elements that is first and last element in the list
         item = (list1[counter] * list1[-(counter + 1)])
         counter += 1
-        # substracting the mutiplication of the rest 2 values from the previous one calculated
+        # subtracting the multiplication of the rest 2 values from the previous one calculated
         item = item - (list1[counter] * list1[-(counter + 1)])
         return item
 
@@ -41,7 +41,7 @@ class Matrix:
         for row in range(0, len(matrix_passed[0])):
             list1 = list()
             for col in range(0, len(matrix_passed)):
-                # adding each element returned by cofactor method in list
+                # adding each element returned by co factor method in list
                 list1.append(self.cofactors(row, col, matrix_passed))
             # the list contains the co factors of each row so appends for each row
             adjoint_matrix.append(list1)
@@ -59,10 +59,10 @@ class Matrix:
         item = 0
         for col in range(0, len(matrix_passed)):
             cofactor = self.cofactors(0, col, matrix_passed)
-            # as we need to add first substract second and add third
+            # as we need to add first subtract second and add third that is + - + hence multiplying with -1
             temp *= -1
-            item += (temp) * (matrix_passed[0][col] * cofactor)
-            # print("col is", col, ', element taken is ', matrix_passed[0][col], 'and co factor is ', cofactor)
+            item += temp * (matrix_passed[0][col] * cofactor)
+            # print("col is", col, ', element taken is ', matrix_passed[0][col], 'and co factor is ', co factor)
         return item
 
     def matrix_multiply(self, matrix1, matrix2):
@@ -82,7 +82,8 @@ class Matrix:
         adjoint_matrix = self.transpose_Matrix(adjoint_matrix)
         determinant = self.calculate_determinant(matrix1)
         print("determinant is ", determinant, " and the inverse matrix is ")
-        inverse_matrix = [[adjoint_matrix[row][col]/determinant for col in range(0, len(matrix1[row]))] for row in range(0, len(matrix1))]
+        inverse_matrix = [[adjoint_matrix[row][col]/determinant
+                           for col in range(0, len(matrix1[row]))] for row in range(0, len(matrix1))]
         self.print_Matrix(inverse_matrix)
         print("or \n 1/", determinant, 'x')
         self.print_Matrix(adjoint_matrix)
@@ -90,5 +91,13 @@ class Matrix:
         self.matrix_multiply(matrix1, inverse_matrix)
 
 
-matrix_object = Matrix()
-matrix_object.inverse_Matrix()
+try:
+    matrix_object = Matrix()
+    flag: bool = True
+    while flag:
+        matrix_object.inverse_Matrix()
+        print("To exit press 0 else press any other number")
+        if input() == 0:
+                    flag = False
+except Exception as e:
+        print("Process stopped because %s" % e)

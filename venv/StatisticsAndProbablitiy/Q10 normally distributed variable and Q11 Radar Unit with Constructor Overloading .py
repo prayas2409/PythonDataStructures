@@ -44,6 +44,20 @@ class Normal_Distributed:
         return 1 - value_z_score
 
 
-normal_distributed_object = Normal_Distributed()
-radar_object = Normal_Distributed(90, 10)
-print("The probability of area < 40 is ", normal_distributed_object.probability_x_less_than_40(40), "\nThe probability of area < 40 is ", normal_distributed_object.probability_x_more_than_21(21), "\nThe probability of area < 40 is ", normal_distributed_object.probability_between_30_and_35(30, 35), "\nThe probability that a car picked at random is travelling at more than 100 km/hr is %.4f" % radar_object.probability_For_Radar_Unit(100))
+try:
+    normal_distributed_object = Normal_Distributed()
+    flag: bool = True
+    while flag:
+        radar_object = Normal_Distributed(90, 10)
+        print("The probability of area < 40 is ", normal_distributed_object.probability_x_less_than_40(40)
+              , "\nThe probability of area more than 21 is ", normal_distributed_object.probability_x_more_than_21(21)
+              , "\nThe probability of area between 30 and 35 is "
+              , normal_distributed_object.probability_between_30_and_35(30, 35)
+              , "\nThe probability that a car picked at random is travelling at more than 100 km/hr is %.4f" %
+              radar_object.probability_For_Radar_Unit(100)
+              , "\nTo exit press 0 else press any other number")
+        if input() == 0:
+                    flag = False
+except Exception as e:
+        print("Process stopped because %s" % e)
+

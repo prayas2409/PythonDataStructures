@@ -32,7 +32,18 @@ class Rain_Traffic_Late:
         return probability/self.late()
 
 
-rain_object = Rain_Traffic_Late()
-print("It's not raining and there is heavy traffic and I am not late ", rain_object.not_Raining_Traffic_not_Late())
-print("Probability that I am late ", rain_object.late())
-print(" I arrived late at work probability that it rained that day is ", rain_object.given_Late_Probaility_Of_Rain())
+try:
+    rain_object = Rain_Traffic_Late()
+    flag: bool = True
+    while flag:
+        print("It's not raining and there is heavy traffic and I am not late "
+              , rain_object.not_Raining_Traffic_not_Late()
+              , "\nProbability that I am late ", rain_object.late()
+              , "\nI arrived late at work probability that it rained that day is "
+              , rain_object.given_Late_Probaility_Of_Rain()
+              , "\nTo exit press 0 else press any other number")
+        if input() == 0:
+                    flag = False
+except Exception as e:
+        print("Process stopped because %s" % e)
+

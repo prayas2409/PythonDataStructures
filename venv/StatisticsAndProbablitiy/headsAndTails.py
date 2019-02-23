@@ -22,7 +22,16 @@ class HeadsAndTails:
         print("{} \n The probability of atleast 2 heads is {}/{} that is {}".format(two_head_list, len(two_head_list), len(new_set), len(two_head_list)/len(new_set)))
 
 
-head_tail_object = HeadsAndTails()
-head_tail_object.probabilityOfHHH()
-head_tail_object.probabilityOf1H()
-head_tail_object.atleast_2_Head_Given_1Head()
+try:
+    head_tail_object = HeadsAndTails()
+    flag: bool = True
+    while flag:
+        head_tail_object.probabilityOfHHH()
+        head_tail_object.probabilityOf1H()
+        head_tail_object.atleast_2_Head_Given_1Head()
+        print("press 0 else press any other number")
+        if input() == 0:
+            flag = False
+except Exception as e:
+        print("Process stopped because %s" % e)
+

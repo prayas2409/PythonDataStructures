@@ -16,5 +16,14 @@ class Patients:
         return self.p_painkiler_and_addicted / self.p_addicted
 
 
-patient = Patients()
-print(patient.calculate_Painkiller_Given_Addicted())
+try:
+    patient = Patients()
+    flag: bool = True
+    while flag:
+        print("The probability of patient being addicted is ", patient.calculate_Painkiller_Given_Addicted(),
+              "\nTo exit press 0 else press any other number")
+        if input() == 0:
+                    flag = False
+except Exception as e:
+        print("Process stopped because %s" % e)
+
